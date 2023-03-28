@@ -7,5 +7,5 @@ terraform {
 }
 
 provider "google" {
-  project = "cloudside-academy"
+  project = "meg-project"
 }
